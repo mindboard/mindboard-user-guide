@@ -1,2 +1,5 @@
-# mindboard-user-guide
-MindBoard for S-Pen User Guide
+
+# MindBoard User Guide
+
+https://www.mindboardapps.com/
+

@@ -1,0 +1,16 @@
+= MindBoard User Guide
+Tomoaki Oshima <https://www.mindboardapps.com/>
+:doctype: book
+:source-highlighter: coderay
+:toc: left
+:sectnums:
+:sectanchors:
+:icons: font
+:imagesdir: images
+
+This document explains MindBoard Version 1.2.8.
+
+[NOTE]
+link:mindboard-user-guide.pdf[User Guide (PDF format)]
+
+include::user-guide.adoc[]

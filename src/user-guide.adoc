@@ -382,18 +382,15 @@ image::screenshots/theme-editor-background-color.png[Theme Editor Branch Color]
 
 == Additional Information
 
-=== Differences between MindBoad Free and Full Edition
+=== The Differences between MindBoad Free and Full Edition
 
-There are two differences.
+Free Edition is locked these features.
 
 1. PDF Export
 2. Theme Editor
 
-Free Edition is missing these features.
 
-
-
-=== Differences between MindBoad Pro image:icons/mbp-app-icon.png[MindBoard Pro App Icon] and MindBoard image:icons/mb-app-icon.png[MindBoard App Icon]
+=== The Differences between MindBoad Pro image:icons/mbp-app-icon.png[MindBoard Pro App Icon] and MindBoard image:icons/mb-app-icon.png[MindBoard App Icon]
 
 MindBoard Pro can *sync data* among multiple android devices with Google Drive App Data. +
 And MindBoard Pro price model is subscription.
